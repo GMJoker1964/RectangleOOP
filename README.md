@@ -1,0 +1,1 @@
+Lớp hình chữ nhật
